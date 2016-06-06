@@ -1,0 +1,9 @@
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\bin\Debug\Generics_Practice.exe.config
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\bin\Debug\Generics_Practice.exe
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\bin\Debug\Generics_Practice.pdb
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.csprojResolveAssemblyReference.cache
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.Properties.Resources.resources
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.csproj.GenerateResource.Cache
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.exe
+c:\users\jordyvanvorselen\documents\visual studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.pdb
+C:\Users\jordyvanvorselen\Documents\Visual Studio 2015\Projects\Generics_Practice\Generics_Practice\obj\Debug\Generics_Practice.GenericsGUI.resources
